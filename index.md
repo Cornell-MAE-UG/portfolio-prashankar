@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name>
+title: Pranav Shankar
 ---
 
 ## About Me
@@ -9,8 +9,6 @@ title: <Your Name>
 ![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am [your pitch paragraph about your passions, knowledge and interestst.] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
-
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+My name is {{ site.name }}, and I am a third-year undergraduate student studying Mechanical & Aerospace Engineering at Cornell University. I am engaged in hands-on projects in and outside of the classroom, including my project team, Cornell Rocketry Team, and my research in the ZT Group. I am also interning at Polamer Precision, an aircraft engine manufacturer in Connecticut. My interest in aerospace began in my childhood with a fascination for aviation; I eventually began tranining for my Private Pilot's License as a cadet in the Cadet Program of Civil Air Patrol, the U.S. Air Force auxiliary. I am currently interested in working in the aerospace/defense industry as an aerospace engineer following my graduation from Cornell in 2027.
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
