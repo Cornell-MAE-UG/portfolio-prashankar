@@ -10,4 +10,4 @@ In this analysis, my group studied the yaw control of the BAE/Malloy T-150 heavy
 
 The primary ODE that describes the control of the UAS is given by $$J_z \ddot{\psi} = \tau_z + \tau_d$$ where $$\psi$$ is the yaw angle and $\tau_z$ is the control torque. The power change to the motors is approximately given by $$\Delta P = \frac{3}{8} \omega_h \tau_z$$. The ideal feedback controller was a PD controller which retains the proportional correction and provides needed damping through the derivative term without further destabilizing the dynamics. The gain values were \(K_P = 11 \) and $$K_D = 37$$. The Bode plots showed that the UAS without the drone \( (J_z = \pu{31 kg \cdot m^3} ) \) 
 
-[Download the final report]({{ "\assets\reports\2025-12-10-mae3260-final-report.pdf" | relative_url }}) in PDF format.
+[Download the final report]({{ "\assets\2025-12-10-mae3260-final-report.pdf" | relative_url }}) in PDF format.
