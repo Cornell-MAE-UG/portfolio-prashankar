@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Pranav Shankar—Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/Pranav_Shankar_Resume.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [ps947@cornell.edu](mailto:netID@cornell.edu) | **Phone:** 860-690-5239 | **Location:** South Windsor, CT | **Citizenship:** U.S. Citizen
