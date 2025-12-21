@@ -12,23 +12,32 @@
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
   <script>
-    window.MathJax = {
-      tex: {
-        inlineMath: [['$', '$'], ['\\(', '\\)']],
-        displayMath: [['$$', '$$'], ['\\[', '\\]']],
-        processEscapes: true
-      }
-    };
-  </script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']],
+      processEscapes: true
+    },
+    chtml: {
+      scale: 0.92, // Adjust this value (e.g., 0.90 to 0.98) until it matches Roboto
+      minScale: 0.5
+    }
+  };
+</script>
   
+<link rel="icon" type="image/png" href="{{ '/assets/images/favicon.png' | relative_url }}">
+
 </head>
 
 <body>
 
   <header>
-    <nav class="navbar navbar-expand-lg navbar-dark text-white";>
+    <nav class="navbar navbar-expand-lg navbar-dark text-white">
       <div class="container-fluid">
-        <a class="navbar-brand" href="{{ "/" | relative_url }}">{{ site.title }}</a>
+        <a class="navbar-brand" href="{{ "/" | relative_url }}">
+          <img src="{{ '/assets/images/favicon.png' | relative_url }}" alt="Logo" width="30" height="30" class="d-inline-block align-top me-2">
+          {{ site.title }}
+        </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"> 
           <span class="navbar-toggler-icon"></span>
         </button>  

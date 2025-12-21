@@ -17,7 +17,7 @@ baseurl                  : "/portfolio-prashankar/" # Set this to your repo name
 
 # Theme and Style
 theme: jekyll-theme-minimal
-color_scheme: light # light/default, dark, or aqua
+color_scheme: custom_blue
 
 sass:
   style: compressed

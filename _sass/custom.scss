@@ -16,6 +16,10 @@ $text-color: #333;
   $primary-color: #925959;
   $background-color: #f6f1e0;
   $text-color: #1e0101;
+} @else if $color_scheme == 'custom_blue' {
+  $primary-color: #15263b;    
+  $background-color: #fcfcfc; 
+  $text-color: #2b2b2b;       
 }
 
 
@@ -29,12 +33,12 @@ h1 {
 }
 
 body {
-  font-family: "Roboto", sans-serif;
-  line-height: 1.6;
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size: 1.05rem; /* Increased from default to balance the math */
+  line-height: 1.7;    /* Slightly more breathing room for formulas */
   background-color: $background-color;
   color: $text-color;
-  margin: 0;
-  padding: 0;
 }
 
 header, footer {
@@ -198,7 +202,7 @@ footer {
 }
 
 .back-arrow:hover {
-  color: #3a3f58; 
+  color: $primary-color; 
   transform: translateX(-4px);
 }
 
