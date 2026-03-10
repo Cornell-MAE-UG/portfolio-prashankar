@@ -16,7 +16,7 @@ As an engineer, it is vital that one understands how to derive and interpret gov
 As an engineer interested in numerical methods, including for thermo-fluidic applications such as hypersonic flight, both the derivation of the governing equations and their discretization is vital in evaluating the results. 
 For example, it is important to note the effect of diffusivity in the governing equation as diffusivity, or the lack thereof, significantly affects the numerical accuracy of the resulting simulation, namely via the stability, referred to as the CFL condition.     
 
-The derivation can be downloaded [at this link]({{ "/assets/reports/2025-12-10-mae3260-final-report.pdf" | relative_url }}) in PDF format.
+The derivation can be downloaded [at this link]({{ "/assets/reports/2026-03-10-mae3240-homework-report.pdf" | relative_url }}) in PDF format.
 The derivation is also included below. 
 
 ---
