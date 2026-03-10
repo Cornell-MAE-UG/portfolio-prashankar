@@ -19,14 +19,16 @@ layout: default
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 <script>
   window.MathJax = {
+    loader: {load: ['[tex]/cancel']}, // Add this line to load the package
     tex: {
+      packages: {'[+]': ['cancel']},  // Enable the package in the TeX engine
       inlineMath: [['$', '$'], ['\\(', '\\)']],
       displayMath: [['$$', '$$'], ['\\[', '\\]']],
       processEscapes: true
     },
     chtml: {
-      scale: 0.92, // Adjust this value (e.g., 0.90 to 0.98) until it matches Roboto
-      minScale: 0.2
+      scale: 0.92, 
+      minScale: 0.5
     }
   };
 </script>
