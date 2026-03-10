@@ -4,6 +4,7 @@ title: System Dynamics Analysis of T-150
 description: Analysis of the yaw control of a military unmanned aerial system starting from first principles to feedback control
 technologies: [MATLAB, SOLIDWORKS, Simulink, LaTeX]
 image: /assets/images/mae3260_cover.png
+hidden: false
 ---
 
 In this analysis, my group studied the yaw control of the BAE/Malloy T-150 heavy-lift unmanned aerial system (UAS). 
