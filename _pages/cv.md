@@ -8,19 +8,24 @@ permalink: /cv/
 [Download my CV]({{ "/assets/Pranav_Shankar_Resume.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [ps947@cornell.edu](mailto:netID@cornell.edu) | **Phone:** 860-690-5239 | **Location:** South Windsor, CT | **Citizenship:** U.S. Citizen
+[ps947@cornell.edu](mailto:netID@cornell.edu) | 860-690-5239 | South Windsor, CT | U.S. Citizen
 
 ---
 
 ### Professional Summary
-Cornell mechanical engineering student with a foundation in engineering analysis using finite element analysis (FEA) and MATLAB and mechanical design in SOLIDWORKS. Skills also include computer-aided design (CAD) and advanced manufacturing with geometric dimensioning & tolerancing (GD&T). Seeking a Summer 2026 internship to apply skills to U.S. defense objectives and global security.
+Cornell mechanical and aerospace engineering student with a foundation in engineering analysis using finite element analysis (FEA) and MATLAB and mechanical design in SOLIDWORKS. Skills also include computer-aided design (CAD) and advanced manufacturing with geometric dimensioning & tolerancing (GD&T). Seeking full-time roles to apply skills to U.S. defense objectives and global security.
 
 ---
 
 ### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 4.1 | Graduation: December 2026
+  *Master of Engineering in Aerospace Engineering*  
+  Graduation: May 2027
+
+- **Cornell University**  
+  *Bachelor of Science in Mechanical Engineering*  
+  GPA: 4.1/4.3 | Graduation: December 2026
+  Coursework: Flight Dynamics, Spacecraft Mechanics, Propulsion, Numerical Fluids Methods, Engineering Simulation
 
 - **South Windsor High School**  
   *High School Diploma*  
@@ -71,6 +76,7 @@ May 2025 - August 2025
 - Modified a 4-axis CNC program, achieving 10-15% efficiency gains; reviewed other programs for verification
 - Developed rework processes and determined final disposition for 120+ nonconformities based on use-case risks
 
+
  
 
 ---
@@ -83,9 +89,10 @@ May 2025 - August 2025
 ---
 
 ### Leadership & Involvements
-- President of the American Institute of Aeronautics & Astronautics Cornell Student Branch  
-- Vice President of the American Society of Mechanical Engineers Cornell Student Section
-- President of the Cornell University Chorale  
+- President of the American Institute of Aeronautics & Astronautics Cornell Student Branch, August 2025–Present 
+- Vice President of the American Society of Mechanical Engineers Cornell Student Section, March 2024–Present
+- President of the Cornell University Chorale, December 2023–December 2025
+- Cadet Officer in Civil Air Patrol, U.S. Air Force Civilian Auxliary, July 2021–September 2024
 
 ---
 
