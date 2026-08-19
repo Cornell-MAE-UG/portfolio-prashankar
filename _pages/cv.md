@@ -37,6 +37,27 @@ Cornell mechanical engineering student with a foundation in engineering analysis
 
 ---
 
+### Work Experience
+
+#### U.S. Department of Defense - Technical Intern  
+June 2026 - August 2026  
+
+#### Polamer Precision - Manufacturing Enigneering Intern  
+May 2025 - August 2025  
+- Analyzed and developed a modular coolant nozzle, using SOLIDWORKS, MATLAB, and fluid mechanics principles
+- Designed an end-to-end manufacturing process for military engine component using SOLIDWORKS and GD&T
+- Enhanced quality by updating drawings and models for 40+ operations for turbofan/turboprop engine sections
+- Modified a 4-axis CNC program, achieving 10-15% efficiency gains; reviewed other programs for verification
+- Developed rework processes and determined final disposition for 120+ nonconformities based on use-case risks
+
+#### Course Assistant - Cornell School of Mechanical and Aerospace Engineering
+August 2024 - Present
+- Led monthly labs in Mechatronics on circuits and robot design, and in Mechanics of Materials on material testing
+- Taught discussion sections and supported learning in Spacecraft Mechanics, and Statics & Mechanics of Materials
+
+
+---
+
 ### Projects
 #### Liquid Test Stand Responsible Engineer, *Cornell Rocketry*  
 - Leading structural design and analysis of the static fire testbed for the newly developing liquid propulsion engine
@@ -63,18 +84,6 @@ Cornell mechanical engineering student with a foundation in engineering analysis
 
 ---
 
-### Work Experience
-#### Polamer Precision - Manufacturing Enigneering Intern  
-May 2025 - August 2025  
-- Analyzed and developed a modular coolant nozzle, using SOLIDWORKS, MATLAB, and fluid mechanics principles
-- Designed an end-to-end manufacturing process for military engine component using SOLIDWORKS and GD&T
-- Enhanced quality by updating drawings and models for 40+ operations for turbofan/turboprop engine sections
-- Modified a 4-axis CNC program, achieving 10-15% efficiency gains; reviewed other programs for verification
-- Developed rework processes and determined final disposition for 120+ nonconformities based on use-case risks
-
- 
-
----
 
 ### Achievements & Certifications
 - Cornell Engineering Leadership Certification, Cornell University, 2025  
